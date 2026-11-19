@@ -5,7 +5,7 @@
 Bank Customer Analytics Dashboard
 
 ## 2. Short Description / Purpose
-An interactive 2-page Power BI report built to analyse bank customer data (4,014 customers, 159.62M total balance) and help the bank roll out new schemes to existing customers and attract new ones.
+An interactive 2-page Power BI report built to analyze bank customer data (4,014 customers, 159.62M total balance) and help the bankroll out new schemes to existing customers and attract new ones.
 
 ## 3. Tech Stack
 - Power BI Desktop – Dashboard and report creation
