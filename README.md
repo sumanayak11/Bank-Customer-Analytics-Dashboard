@@ -131,3 +131,4 @@ A role restricts the data to the England region, so users assigned to it see onl
 This project was built as hands-on practice from a Power BI course case study. The dataset and business requirement were provided by the course.
 
 ## 12. Dashboard
+https://github.com/sumanayak11/Bank-Customer-Analytics-Dashboard/blob/main/Bank%20Customer%20Analytics.png
